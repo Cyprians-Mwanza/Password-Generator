@@ -25,8 +25,8 @@ A simple Python application that generates secure passwords based on user prefer
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Cyprians-Mwanza/Password-Generator.git
+   cd https://github.com/Cyprians-Mwanza/Password-Generator.git
 2.Install required dependencies:
 pip install -r requirements.txt
 3.Run the application:
@@ -83,8 +83,8 @@ A simple Python application that generates secure passwords based on user prefer
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Cyprians-Mwanza/Password-Generator.git
+   cd https://github.com/Cyprians-Mwanza/Password-Generator.git
 Install required dependencies:
 
 bash
@@ -103,7 +103,10 @@ The generated password and its strength will be displayed.
 Optionally, save the password by clicking "Save Password."
 Screenshots
 Main Window	Generated Password
-How It Works
+<img width="960" alt="Password Generator" src="https://github.com/user-attachments/assets/272aed69-2931-4717-9c55-2edf0f23b6ea">
+<img width="960" alt="success Message" src="https://github.com/user-attachments/assets/0dee4740-ab94-4084-a352-11ce9ee425cf">
+
+**How It Works**
 The application uses random character selection from user-specified categories (uppercase, lowercase, digits, special characters) to generate a password. The strength checker evaluates the password based on length and the inclusion of different character types.
 
 Contributing
